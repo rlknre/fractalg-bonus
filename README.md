@@ -3,6 +3,10 @@
 
 An L-system that creates a **fractal graphic** after a certain number of iterations. This was made using JFLAP for the Automata and Language Theory course in the university.
 
+![Wave](img.PNG)
+
+<br />
+
 Here is the file directory:
 
    ```
